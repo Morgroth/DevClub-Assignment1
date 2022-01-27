@@ -49,7 +49,7 @@ img{
     background-image:url('/images/thumbnail.png');
     background-repeat: no-repeat;
     background-size: 10%;
-    background-position-x: 500px;
+    background-position-x: 150px;
     background-position-y: 120px; 
     background-color: orange;
     
@@ -87,8 +87,8 @@ body{
 
 #add1{
     background-color: cornflowerblue;
-    margin-left: 700px;
-    margin-right: 730px;
+    margin-left: 470px;
+    margin-right: 430px;
     margin-bottom: 0px;
     height: 60px;
 }
@@ -97,7 +97,7 @@ body{
     background-color: cornflowerblue;
     margin-left: 330px;
     margin-right: 230px;
-    height: 70px;
+    height: 80px;
     margin-top: 0px;
     
 }
@@ -137,7 +137,7 @@ body{
 #Myths{
     font-size: 30px;
     background-color: pink;
-    height:1250px;
+    height:1400px;
     border-style: groove;
     border-radius: 40px;
     border-color: plum;
@@ -149,14 +149,14 @@ body{
     background-image: url('/images/MYTH_BUSTERS_Hand_Washing_4_5_2.jpg');
     background-repeat: no-repeat;
     background-size: 500px;
-    height: 500px;
+    height: 550px;
     background-position-y: 150px;
     border-color: purple;
     border-width: 5px;
     border-style: double;
     border-radius: 10px;
-    background-position-x: 725px;
-    background-position-y: 200px;
+    background-position-x: 475px;
+    background-position-y: 275px;
 
 }
 
@@ -164,14 +164,14 @@ body{
     background-image: url('/images/MYTH_BUSTERS_Hand_Washing_4_5_2.jpg');
     background-repeat: no-repeat;
     background-size: 500px;
-    height: 540px;
+    height: 640px;
     background-position-y: 150px;
     border-color: purple;
     border-width: 5px;
     border-style: double;
     border-radius: 10px;
-    background-position-x: 725px;
-    background-position-y: 250px;
+    background-position-x: 475px;
+    background-position-y: 350px;
 
 }
 
