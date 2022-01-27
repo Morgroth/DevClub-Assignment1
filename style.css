@@ -146,7 +146,7 @@ body{
 }
 
 .Myth1{
-    background-image: url(/DevClub-Assignment1'/images/MYTH_BUSTERS_Hand_Washing_4_5_2.jpg');
+    background-image: url('/DevClub-Assignment1'/images/MYTH_BUSTERS_Hand_Washing_4_5_2.jpg');
     background-repeat: no-repeat;
     background-size: 500px;
     height: 550px;
