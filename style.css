@@ -1,0 +1,190 @@
+*{
+    text-align: center;
+    
+}
+
+table, th {
+    border: 1px solid black;
+    background-color: green;
+  }
+
+table{
+    width: 100%;
+    text-align: center;
+    color: aqua;
+    
+}  
+
+tr :hover{
+     background-color: red;
+     
+}
+
+th{
+    background-color: aqua;
+    color:white;
+    font-size:large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:cornflowerblue;
+    
+}
+
+
+img{
+    margin: 10px 10px 10px;
+    border-width: 30px;
+    border-style: dashed;
+    border-top-color: blueviolet;
+    border-left-color: brown;
+    border-right-color: green;
+}
+
+#starter{
+    font-size: 25px;
+    background-color: orange;
+    color: white;
+    text-align: center;
+    margin: 0px;
+    height: 380px;
+    background-image:url('/images/thumbnail.png');
+    background-repeat: no-repeat;
+    background-size: 10%;
+    background-position-x: 500px;
+    background-position-y: 120px; 
+    background-color: orange;
+    
+    
+}
+
+body{
+    background-color: rosybrown;
+
+}
+
+.intro{
+    font-size: 100px;
+}
+
+.heading{
+    font-size: 50px;
+    color: blueviolet;
+    text-align: center;
+}
+
+#Home{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    background:
+        url('/images/thumbnail.png') top right no-repeat;
+    background-color: thistle;  
+    border-color: thistle;
+    border-style: dotted;
+
+
+}
+
+#add1{
+    background-color: cornflowerblue;
+    margin-left: 700px;
+    margin-right: 730px;
+    margin-bottom: 0px;
+    height: 60px;
+}
+
+#add2{
+    background-color: cornflowerblue;
+    margin-left: 330px;
+    margin-right: 230px;
+    height: 70px;
+    margin-top: 0px;
+    
+}
+
+#Important_Guidelines{
+    font-size: 30px;
+    background-image: linear-gradient(red, yellow);
+
+}
+
+#Common_Symptoms{
+    background-color: tomato;
+    font-size: 30px;
+    text-align: left;
+}
+
+#image{
+    border-width: 50px;
+    border: yellowgreen;
+    border-style: solid;
+     
+}
+
+#FAQ{
+    font-size: 30px;
+    background-color: darkgrey;
+    height:550px;
+}
+
+.Q{
+    padding: 50px;
+    border: crimson;
+    border-width: 2px;
+    border-style: solid;
+}
+
+#Myths{
+    font-size: 30px;
+    background-color: pink;
+    height:1250px;
+    border-style: groove;
+    border-radius: 40px;
+    border-color: plum;
+    border-width: 10px;
+    padding: 10px;
+}
+
+.Myth1{
+    background-image: url('/images/MYTH_BUSTERS_Hand_Washing_4_5_2.jpg');
+    background-repeat: no-repeat;
+    background-size: 500px;
+    height: 500px;
+    background-position-y: 150px;
+    border-color: purple;
+    border-width: 5px;
+    border-style: double;
+    border-radius: 10px;
+    background-position-x: 725px;
+    background-position-y: 200px;
+
+}
+
+.Myth2{
+    background-image: url('/images/MYTH_BUSTERS_Hand_Washing_4_5_2.jpg');
+    background-repeat: no-repeat;
+    background-size: 500px;
+    height: 540px;
+    background-position-y: 150px;
+    border-color: purple;
+    border-width: 5px;
+    border-style: double;
+    border-radius: 10px;
+    background-position-x: 725px;
+    background-position-y: 250px;
+
+}
+
+#YT{
+    font-size: 50px;
+    font-family: fantasy;
+}
+
+footer{
+    background-color: magenta;
+}
+
+.channel{
+    border: peru;
+    border-width: 20px;
+}
