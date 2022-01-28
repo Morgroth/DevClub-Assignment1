@@ -104,7 +104,7 @@ body{
 
 #Important_Guidelines{
     font-size: 30px;
-    background-image: linear-gradient(red, yellow);
+    background-image: linear-gradient(to top,red, yellow);
 
 }
 
